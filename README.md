@@ -10,7 +10,7 @@ Simple application that given a number of pennies will calculate the minimum num
 
 ## How to run 
 
-Download/clone the repository, and open `index.html` in a browser or  [Click here](https://minimumnumber.000webhostapp.com) to run the live demo. Then enter a Sterling amount (e.g. £12.34) and press Enter. To run the unit test open 'test/SpecRunner.html' in a browsers.
+Download/clone the repository, and open `index.html` in a browser or  [Click here](https://minimumnumber.000webhostapp.com) to run the live demo. Then enter a Sterling amount (e.g. £12.34) and press Enter. To run the unit test open `test/SpecRunner.html` in a browsers.
 
 
 
